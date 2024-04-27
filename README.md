@@ -23,6 +23,6 @@ Download entire repository and add it your matlab path(using add folder with sub
 
 ## Usage Notes
 Once added to your path, call from the matlab command line
-'''python
+''' tcsh
 main_gui()
 '''
