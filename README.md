@@ -1,5 +1,5 @@
 # Lexical-Distance
-Create distance matrices for a list of words using phono-orthotactics and semantics.
+Create distance matrices for a list of words using phono-orthotactics of sublexical features and semantics.
 
 This code is intended for RSA neuroimaging studies on reading. This code utilizes MATLAB GUIs for ease of use/reproducibility. 
 
